@@ -6,7 +6,7 @@ results:
 
 
 
-# Getis-Ord Gi* Hot Spot Analysis
+# 2.Getis-Ord Gi* Hot Spot Analysis
 Given a set of weighted features, identifies statistically significant hot spots and cold spots using the Getis-Ord Gi* statistic.
 Number of people injured:
 results:
